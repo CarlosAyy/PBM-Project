@@ -4,14 +4,13 @@ Listed of GitHub references for each parameter of base code:
 
 Monte Carlo in multilayer tissue (MCML) - https://github.com/lhvwang/MCML
 
-Monte Carlo in multilayer tissue (MCML) - https://github.com/DeeplearningBILAB/MCML_EO
+Monte Carlo in multilayer tissue (MCML_EO) - https://github.com/DeeplearningBILAB/MCML_EO
 
 Monte Carlo General - https://github.com/titonmoy/Monte-Carlo
 
-
 Henyey–Greenstein (HG) phase function - https://github.com/ankrh/MCmatlab
 
-Fresnel equations (unpolarized Rs/Rp, Snell) - https://github.com/MansourM61/OpticalRayTracer
+OpticalRayTracer - https://github.com/MansourM61/OpticalRayTracer
 
 Fresnel equations (unpolarized Rs/Rp, Snell) - https://github.com/chinmayCK/Fresnel
 
@@ -19,8 +18,8 @@ Time-resolved reflectance/transmittance (TOF / gating) - https://github.com/fang
 
 Optical properties & λ-dependence (tissue μa, μs′, g vs wavelength) - https://omlc.org/news/dec14/Jacques_PMB2013/Jacques_PMB2013.pdf
 
-Fluence tally (track-length estimator) - https://github.com/clrp-code/egs_brachy
+time-dependent fluence-rate and integration - https://github.com/clrp-code/egs_brachy
 
-Fluence tally (track-length estimator) - https://github.com/fangq/mcx
+track-length dose/fluence scoring - https://github.com/fangq/mcx
 
 Bioheat / axisymmetric heat solver (finite differences) - https://github.com/MuhammadUsamaSattar/Axisymmteric-3D-Heat-Simulation
